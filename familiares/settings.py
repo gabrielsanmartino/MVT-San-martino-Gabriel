@@ -55,7 +55,7 @@ ROOT_URLCONF = 'familiares.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ["C:/Users/gabri/Desktop/entregable6/familiares/app_familiares/templates"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
